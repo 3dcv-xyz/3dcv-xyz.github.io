@@ -8,9 +8,11 @@ permalink: /about/
 to teach machines to sense, understand and navigate their environment. We'll build
 out our content map over the coming weeks.
 
-You can find 3DCV.XYZ on GitHub:
-[3dcv.xyz][3dcv-organization]
+You can find 3DCV.XYZ on
+- GitHub: [3dcv.xyz][3dcv-organization]
+- Twitter: [3dcvX][3dcv-twitter]
 
 
 
 [3dcv-organization]: https://github.com/3dcv-xyz
+[3dcv-twitter]: https://twitter.com/3dcvX
