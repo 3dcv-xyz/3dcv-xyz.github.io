@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+3DCV.XYZ is concerned with all aspects of spatial computing with the goal
+to teach machines to sense, understand and navigate their environment. We'll build
+out our content map over the coming weeks.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find 3DCV.XYZ on GitHub:
+[3dcv.xyz][3dcv-organization]
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+[3dcv-organization]: https://github.com/3dcv-xyz
